@@ -9,6 +9,7 @@ A HomeAssistant third-party app that uses Flutter as its UI rendering. Faster st
 https://www.youtube.com/watch?v=FqyU0ygJylQ
 
 * Change log
+  * 1.5.0:Support account password login; Optimized curtains, sliding components; Upgrade the base library 
   * 1.4.0:Support to pop up all rooms on the right side, support to display entity history and other entities associated with devices
   * 1.3.0:bug fix, add notification sensor, add  walk sensor
   * 1.2.0:Optimize login, optimize sensor ui, more config
