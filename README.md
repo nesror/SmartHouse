@@ -6,6 +6,7 @@ A HomeAssistant third-party app that uses Flutter as its UI rendering. Faster st
 [Release (iOS and no GooglePlay phone)](https://github.com/nesror/SmartHouse/releases)
 
 * Change log
+  * 3.0.0:
   * 2.0.0:Supports multiple HomeAssistant switches
   * 1.9.0:Supports HA message push
   * 1.8.1:can set the HA home page as the APP home page
