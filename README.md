@@ -1,6 +1,6 @@
 # SmartHouse
 A HomeAssistant third-party app that uses Flutter as its UI rendering. Faster startup and friendlier operation.
-
+ How to use（使用教程）：[bilibili](https://www.bilibili.com/video/BV16WCbYwEaH/)
 <img src="\doc\Screenshot_20240930_152432.webp" width="400">  <img src="\doc\Screenshot_20240930_152523.webp" width="400">  <img src="\doc\Screenshot_20240930_152537.webp" width="400">
 
 * Download：  
