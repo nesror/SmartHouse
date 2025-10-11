@@ -5,7 +5,8 @@ A HomeAssistant third-party app that uses Flutter as its UI rendering. Faster st
 
 * Download：  
 [GooglePlay](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha)  
-[Release (iOS and no GooglePlay phone)](https://github.com/nesror/SmartHouse/releases)
+AppStore: 即将上架  
+[Release (apk)](https://github.com/nesror/SmartHouse/releases)
 
 * Change log  
   [bilibili介绍](https://www.bilibili.com/video/BV1Y8411179b/)  
