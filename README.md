@@ -55,5 +55,3 @@ How to use（使用教程）：[bilibili](https://www.bilibili.com/video/BV16WCb
 - **设备本地 Home Assistant 安装（Android）**&#8203;
   - 无需电脑与服务器，直接在本机下载并运行 Home Assistant 容器（基于 proot，无 root）。
   - 内置大陆可访问的镜像源与自动回退，安装进度实时反馈、失败可重试、完成后自动启动服务。
-  - 入口：登录页与设置页；详见 `docs/local_ha_install.md`。
-
