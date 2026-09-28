@@ -4,11 +4,8 @@ A Home Assistant third-party client built with Flutter. Faster startup and frien
 基于 Flutter 的 Home Assistant 第三方客户端，启动更快、操作更友好。  
 How to use（使用教程）：[bilibili](https://www.bilibili.com/video/BV16WCbYwEaH/)
 
-<!-- 建议放几张截图，路径按实际仓库调整，例如：
-[![](doc/screenshot_1.webp)](doc/screenshot_1.webp)
-[![](doc/screenshot_2.webp)](doc/screenshot_2.webp)
--->
-
+- Home and Introduction （主页与介绍）
+  - https://191005.xyz/smarthouse/
 - Download 下载：
   - [App Store](https://apps.apple.com/app/id6753762531)
   - [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha)
