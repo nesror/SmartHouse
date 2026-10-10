@@ -12,7 +12,7 @@
 
 [English](README.md) · **简体中文**
 
-[官网](https://191005.xyz/smarthouse/) · [App Store](https://apps.apple.com/app/id6753762531) · [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) · [下载 APK](https://github.com/nesror/SmartHouse/releases/latest) · [使用教程](https://www.bilibili.com/video/BV16WCbYwEaH/)
+[官网](https://191005.xyz/smarthouse/) · [App Store](https://apps.apple.com/app/id6753762531) · [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) · [使用教程](https://www.bilibili.com/video/BV16WCbYwEaH/)
 
 </div>
 
@@ -41,10 +41,11 @@
 
 | 平台 | 渠道 | 说明 |
 | --- | --- | --- |
-| Android | [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) | 推荐大多数用户，自动更新 |
-| Android | [GitHub Releases](https://github.com/nesror/SmartHouse/releases/latest) | 直装 APK（arm64-v8a / armeabi-v7a / x86_64），支持应用内自更新。使用独立应用 ID，可与商店版共存 |
-| iOS | [App Store](https://apps.apple.com/app/id6753762531) | 需要 iOS 15.6 或更高版本 |
-| iOS | [GitHub Releases](https://github.com/nesror/SmartHouse/releases/latest) | 未签名 IPA，供自签名 / 侧载使用 |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) | ⭐ **推荐** —— 官方商店安装，自动更新，最省心 |
+| iOS | [App Store](https://apps.apple.com/app/id6753762531) | ⭐ **推荐** —— 需要 iOS 15.6 或更高版本 |
+| Android | [GitHub Releases](https://github.com/nesror/SmartHouse/releases/latest) | 进阶备选：直装 APK（arm64-v8a / armeabi-v7a / x86_64），支持应用内自更新。使用独立应用 ID，可与商店版共存 |
+
+> 不确定装哪个？Android 用 **Google Play**，iOS 用 **App Store** —— 这两个是我们推荐的版本。
 
 ## ⚡ 在手机本地运行 Home Assistant（Android）
 

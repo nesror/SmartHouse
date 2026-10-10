@@ -12,7 +12,7 @@
 
 **English** · [简体中文](README-CN.md)
 
-[Website](https://191005.xyz/smarthouse/) · [App Store](https://apps.apple.com/app/id6753762531) · [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) · [Download APK](https://github.com/nesror/SmartHouse/releases/latest) · [Video tutorial](https://www.bilibili.com/video/BV16WCbYwEaH/)
+[Website](https://191005.xyz/smarthouse/) · [App Store](https://apps.apple.com/app/id6753762531) · [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) · [Video tutorial](https://www.bilibili.com/video/BV16WCbYwEaH/)
 
 </div>
 
@@ -41,10 +41,11 @@ Grab a spare 64-bit Android phone, tap once, and you get a 24/7 Home Assistant h
 
 | Platform | Channel | Notes |
 | --- | --- | --- |
-| Android | [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) | Recommended for most users, keeps itself updated |
-| Android | [GitHub Releases](https://github.com/nesror/SmartHouse/releases/latest) | Direct APK (arm64-v8a / armeabi-v7a / x86_64). Supports in-app self-update. Uses its own app ID, so it can be installed alongside the store build |
-| iOS | [App Store](https://apps.apple.com/app/id6753762531) | Requires iOS 15.6 or later |
-| iOS | [GitHub Releases](https://github.com/nesror/SmartHouse/releases/latest) | Unsigned IPA for self-signing / sideloading |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cn.yzapp.flutter.ha) | ⭐ **Recommended** — install from the official store, updates are handled for you |
+| iOS | [App Store](https://apps.apple.com/app/id6753762531) | ⭐ **Recommended** — requires iOS 15.6 or later |
+| Android | [GitHub Releases](https://github.com/nesror/SmartHouse/releases/latest) | Advanced alternative: direct APK (arm64-v8a / armeabi-v7a / x86_64) with in-app self-update. Uses its own app ID, so it can be installed alongside the store build |
+
+> Not sure which one to pick? Use **Google Play** on Android and the **App Store** on iOS — those are the versions we recommend.
 
 ## ⚡ Run Home Assistant on your phone (Android)
 
